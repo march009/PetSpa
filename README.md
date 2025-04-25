@@ -1,19 +1,19 @@
 # PetSpa
-Thanakit Chupviroj_6631503020
+Chatmongkhon Jaemjaeng 6631503009
 
-ชื่อ - นามสกุล (Full Name): Thanakit Chupviroj
+ชื่อ - นามสกุล (Full Name): Chatmongkhon Jaemjaeng 
 
-รหัสนักศึกษา (Student ID): 6631503020 
+รหัสนักศึกษา (Student ID): 6631503009 
 
 ตอนเรียน (Section) : 1
 
-ชื่อแอป (App Name): QuickFood
+ชื่อแอป (App Name): PetSpa
 
-Framework ที่ใช้ (Framework Used):  React Native / อื่น ๆ
+Framework ที่ใช้ (Framework Used): React Native / อื่น ๆ
 
-ลิงก์ GitHub Repository: https://github.com/6631503020/QuickFood
+ลิงก์ GitHub Repository: https://github.com/march009/PetSpa
 
-ลิงก์ไฟล์ติดตั้ง (APK/IPA): https://expo.dev/accounts/thanakitchupviroj/projects/QuickFood/builds/08b5fd58-0005-4257-bc0a-478316b22991
+ลิงก์ไฟล์ติดตั้ง (APK/IPA): -
 
 
 ----------------------------------------------------------------
